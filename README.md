@@ -1,6 +1,6 @@
-# Hi, I'm Anjali 👋
+# Hi, I'm Anjali 
 
-### 20 / Engin
+### 20 / Engineering
 
 I'm a Computer Science undergrad with interested in building practical applications with **AI/ML, LLMs, and full-stack technologies**.
 
@@ -8,7 +8,7 @@ Currently, I'm exploring **RAG systems, agents and backend** — while strengthe
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -16,7 +16,12 @@ Currently, I'm exploring **RAG systems, agents and backend** — while strengthe
   <img src="https://skillicons.dev/icons?i=java,python,javascript,cpp,html,css" />
 </p>
 
-### AI / Machine Learning
+### Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,mongodb,postgresql" />
+</p>
+### More 
 
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
@@ -25,11 +30,7 @@ Currently, I'm exploring **RAG systems, agents and backend** — while strengthe
 **Also working with:**  
 `Pandas` `NumPy` `OpenCV` `Hugging Face` `CLIP` `LangChain` `FAISS` `LLMs`
 
-### Web Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,mongodb,postgresql" />
-</p>
 
 ### Tools & Platforms
 
@@ -39,7 +40,7 @@ Currently, I'm exploring **RAG systems, agents and backend** — while strengthe
 
 ---
 
-## 🚀 Projects
+## Projects
 
 | Project | Description | Tech |
 |---|---|---|
@@ -50,23 +51,6 @@ Currently, I'm exploring **RAG systems, agents and backend** — while strengthe
 | **Harvest AI** | ML-based crop yield prediction and recommendation system designed to assist with agricultural decision-making. | `Python` `Random Forest` `ML` |
 
 > More projects and experiments can be found in my repositories.
-
----
-
-## 📚 Currently Learning
-
-- Machine Learning & Deep Learning
-- Computer Vision & Multimodal AI
-- LLMs, RAG & AI Agents
-- React & Full-Stack Development
-- Data Structures & Algorithms
-- Cloud & Backend Development
-
----
-
-## 🎯 What I'm Working Towards
-
-Building a strong foundation across **software engineering and AI**, with a focus on creating systems that are practical, useful, and actually solve problems.
 
 ---
 
