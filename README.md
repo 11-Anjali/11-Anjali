@@ -21,6 +21,7 @@ Currently, I'm exploring **RAG systems, agents and backend** — while strengthe
 <p>
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,mongodb,postgresql" />
 </p>
+
 ### More 
 
 <p>
@@ -51,15 +52,6 @@ Currently, I'm exploring **RAG systems, agents and backend** — while strengthe
 | **Harvest AI** | ML-based crop yield prediction and recommendation system designed to assist with agricultural decision-making. | `Python` `Random Forest` `ML` |
 
 > More projects and experiments can be found in my repositories.
-
----
-
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" height="165"/>
-</p>
 
 ---
 
