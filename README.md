@@ -8,40 +8,7 @@ Currently, I'm exploring **RAG systems, agents and backend** — while strengthe
 
 ---
 
-## Tech Stack
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,cpp,html,css" />
-</p>
-
-### Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,mongodb,postgresql" />
-</p>
-
-### More 
-
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
-</p>
-
-**Also working with:**  
-`Pandas` `NumPy` `OpenCV` `Hugging Face` `CLIP` `LangChain` `FAISS` `LLMs`
-
-
-
-### Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws,azure" />
-</p>
-
----
-
-## Projects
+## Major Projects
 
 | Project | Description | Tech |
 |---|---|---|
